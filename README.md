@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Can @sardaslar
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA Script.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me with can.sardaslar@me.com
 
