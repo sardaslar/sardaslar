@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Can @sardaslar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA Script.
+- 👋 Hi, I’m John/Can @sardaslar
+- 👀 I’m interested in Web Developer...
+- 🌱 I’m currently learning Back End.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me with can.sardaslar@me.com
 
